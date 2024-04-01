@@ -2012,12 +2012,12 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
   .progress-container.progress-primary .progress {
-    background: rgba(55, 140, 63, 0.4); }
+    background: rgba(56, 147, 212, 0.4); }
   .progress-container.progress-primary .progress-bar {
-    background: #378C3F; }
+    background: rgb(45, 125, 182); }
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
-    color: #378C3F; }
+    color: rgb(32, 99, 148); }
   .progress-container.progress-info .progress {
     background: rgba(44, 168, 255, 0.3); }
   .progress-container.progress-info .progress-bar {
@@ -2345,7 +2345,7 @@ body {
     background-color: #378C3F; }
 
 .nav-pills .nav-item .nav-link {
-  padding: 0 15.5px;
+  padding: 18px 10px;
   text-align: center;
   height: 60px;
   width: 60px;
@@ -2355,7 +2355,7 @@ body {
   background-color: rgba(222, 222, 222, 0.3);
   border-radius: 30px; }
   .nav-pills .nav-item .nav-link:hover {
-    background-color: rgba(222, 222, 222, 0.3); }
+    background-color: rgba(199, 199, 199, 0.3); }
   .nav-pills .nav-item .nav-link.active, .nav-pills .nav-item .nav-link.active:focus, .nav-pills .nav-item .nav-link.active:hover {
     background-color: #9A9A9A;
     color: #FFFFFF;
@@ -2376,7 +2376,7 @@ body {
     color: #378C3F; }
 
 .nav-pills.nav-pills-primary .nav-item .nav-link.active, .nav-pills.nav-pills-primary .nav-item .nav-link.active:focus, .nav-pills.nav-pills-primary .nav-item .nav-link.active:hover {
-  background-color: #378C3F; }
+  background-color: #1c82d68a; }
 
 .nav-pills.nav-pills-info .nav-item .nav-link.active, .nav-pills.nav-pills-info .nav-item .nav-link.active:focus, .nav-pills.nav-pills-info .nav-item .nav-link.active:hover {
   background-color: #2CA8FF; }
